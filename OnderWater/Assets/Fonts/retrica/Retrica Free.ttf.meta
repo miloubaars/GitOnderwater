@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 9bcfc4d9193e32041a99a84ec763c1bf
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Retrica
+  fontNames:
+  - Retrica
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 723aaeb16329794409ed5da782798740, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

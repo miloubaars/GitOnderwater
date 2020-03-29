@@ -1,0 +1,195 @@
+fileFormatVersion: 2
+guid: 2658daac29f070943a29ce5dae7df44b
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Deur1
+    100002: fles__moet_doorzichtig_
+    100004: group1
+    100006: houder
+    100008: //RootNode
+    100010: pCone1
+    100012: pCone2
+    100014: pCone3
+    100016: pCone4
+    100018: pCone5
+    100020: pCone6
+    100022: pCone7
+    100024: pCone8
+    100026: pCube3
+    100028: pCube4
+    100030: pCylinder26
+    100032: pCylinder27
+    100034: pCylinder29
+    100036: pCylinder3
+    100038: pCylinder30
+    100040: pCylinder31
+    100042: pCylinder4
+    100044: pSphere1
+    100046: pSphere3
+    100048: pSphere4
+    100050: transform11
+    100052: transform12
+    100054: transform13
+    100056: transform14
+    100058: transform15
+    100060: transform16
+    100062: transform17
+    100064: transform18
+    100066: transform19
+    100068: transform20
+    100070: transform21
+    100072: transform22
+    100074: transform23
+    100076: transform24
+    100078: transform25
+    100080: transform26
+    100082: transform27
+    100084: transform28
+    100086: transform29
+    100088: transform30
+    100090: transform31
+    100092: transform32
+    100094: transform33
+    100096: vis
+    100098: vissie
+    400000: Deur1
+    400002: fles__moet_doorzichtig_
+    400004: group1
+    400006: houder
+    400008: //RootNode
+    400010: pCone1
+    400012: pCone2
+    400014: pCone3
+    400016: pCone4
+    400018: pCone5
+    400020: pCone6
+    400022: pCone7
+    400024: pCone8
+    400026: pCube3
+    400028: pCube4
+    400030: pCylinder26
+    400032: pCylinder27
+    400034: pCylinder29
+    400036: pCylinder3
+    400038: pCylinder30
+    400040: pCylinder31
+    400042: pCylinder4
+    400044: pSphere1
+    400046: pSphere3
+    400048: pSphere4
+    400050: transform11
+    400052: transform12
+    400054: transform13
+    400056: transform14
+    400058: transform15
+    400060: transform16
+    400062: transform17
+    400064: transform18
+    400066: transform19
+    400068: transform20
+    400070: transform21
+    400072: transform22
+    400074: transform23
+    400076: transform24
+    400078: transform25
+    400080: transform26
+    400082: transform27
+    400084: transform28
+    400086: transform29
+    400088: transform30
+    400090: transform31
+    400092: transform32
+    400094: transform33
+    400096: vis
+    400098: vissie
+    2100000: lambert1
+    2300000: vissie
+    3300000: vissie
+    4300000: vissie
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
